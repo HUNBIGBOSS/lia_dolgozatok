@@ -1,0 +1,33 @@
+.row {
+	border: 1px solid white;
+}
+.fejlec {
+	background-color: black;
+	border: 1px solid white;
+	min-height: 100px;
+}
+.footer {
+	background-color: black;
+	border: 1px solid white;
+	min-height: 100px;
+}
+.content {
+	min-height: 300px;
+	background-color: #658564;
+	border: 1px solid white;
+}
+.cont2 {
+	min-height: 250px;
+	background-color: #946465;
+	border: 1px solid white;
+}
+.sidebar {
+	min-height: 450px;
+	background-color: #738464;
+	border: 1px solid white;
+}
+.menu {
+	min-height: 30px;
+	background-color: #748542;
+	border: 1px solid white;
+}
