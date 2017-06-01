@@ -15,3 +15,8 @@ Végül telepítjük a nodejs legújabb verzióját
 ````
 sudo apt install nodejs
 ````
+----------------
+````
+A kódok futtatásához az alábbi parancsot kell használni:
+````
+nodejs /a/kód/elérési/útvonala
